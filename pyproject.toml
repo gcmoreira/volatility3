@@ -38,7 +38,7 @@ test = [
     "volatility3[dev]",
     "pytest>=8.3.3,<9",
     "yara-x>=0.10.0,<1",
-    "xdist",
+    "pytest-xdist",
 ]
 
 docs = [
